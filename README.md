@@ -14,6 +14,10 @@ Engineering Student at Télécom SudParis specializing in Applied Mathematics, D
 
 ## Featured Repositories
 
+* **[GSTD](https://github.com/CORNI-E/GSTD)**
+  * An algorithmic trading and quantitative finance repository developed for the IMC Prosperity challenge, focused on market modeling, strategy design, and automated execution.
+* **[DL2026-pose-analysis](https://github.com/MatisseTSP/DL2026-pose-analysis)**
+  * A computer vision and Deep Learning project dedicated to human pose recognition, leveraging neural networks to accurately detect and analyze human body configurations.
 * **[dk-power-spot-forecaster](https://github.com/TeebooGH/dk-power-spot-forecaster)**
   * A data science and time-series forecasting project leveraging LSTM and XGBoost models to predict Danish electricity spot prices.
 * **[AI-infrastructure-investment-project](https://github.com/aicha-koureich/AI-infrastructure-investment-project)**
